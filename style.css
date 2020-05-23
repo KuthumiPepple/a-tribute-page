@@ -13,6 +13,12 @@ body{
 #title{
     font-size: 3.5rem;
 }
+#image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
 #img-caption{
     font-style: italic;
     color: dimgray;
